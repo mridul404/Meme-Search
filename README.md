@@ -23,14 +23,14 @@ A command-line tool to search through your local meme collection using Google's 
 1. Clone the repository
 
 2. Make a Virtual Environment
-```bash
+    ```bash
 python -m venv .venv
 ```
 
 3. Activate the Virtual Environment
-```bash
-source .venv/bin/activate
-```
+    ```bash
+    source .venv/bin/activate
+    ```
 
 4. Install the required dependencies:
    ```bash
