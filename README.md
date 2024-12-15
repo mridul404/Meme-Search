@@ -38,7 +38,7 @@ A command-line tool to search through your local meme collection using Google's 
    ```
 
 5. Set up your Google API key:
-   - Create a new API key in the Google Cloud Console.
+   - Create a new [API key](https://aistudio.google.com/apikey).
    - Add the API key to the `.env` file in the root directory.
 
 6. Run the script:
