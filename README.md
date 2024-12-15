@@ -25,7 +25,7 @@ A command-line tool to search through your local meme collection using Google's 
 2. Make a Virtual Environment
     ```bash
     python -m venv .venv
-```
+    ```
 
 3. Activate the Virtual Environment
     ```bash
