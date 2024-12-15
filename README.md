@@ -23,15 +23,19 @@ A command-line tool to search through your local meme collection using Google's 
 1. Clone the repository
 
 2. Make a Virtual Environment
-`python -m venv .venv`
+```bash
+python -m venv .venv
+```
 
 3. Activate the Virtual Environment
-`source .venv/bin/activate`
+```bash
+source .venv/bin/activate
+```
 
 4. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-    ```
+   ```
 
 5. Set up your Google API key:
    - Create a new API key in the Google Cloud Console.
